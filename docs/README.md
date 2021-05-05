@@ -1,3 +1,0 @@
-- [Stuff to buy](stuff_to_buy.md)
-- [Movies to Watch](movies_to_watch.md)
-- [Birthdays](birthdays.md)
