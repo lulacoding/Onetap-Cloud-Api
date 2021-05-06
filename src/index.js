@@ -239,7 +239,6 @@ class OnetapCloud {
 // Usage
 // {apiKey:'',apiSecret:'',apiId:'701f02d46836e2c2f0f4fdf5719dfc2f'}
 
-const ot = new OnetapCloud('701f02d46836e2c2f0f4fdf5719dfc2f', '89016f59a0e6e24a1457dd330f214638f07298efdc58ba947e81ebfea47f54b3','1tgHv0nKwEsBc12s0230D9AzMYf1RRjo')
 
 
 //script stuff
