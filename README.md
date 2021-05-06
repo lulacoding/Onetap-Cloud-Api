@@ -23,7 +23,7 @@ const OnetapAPI = new OnetapCloud(apiId, apiSecret, apiKey);
 (you need to provide the X-Api-Id, X-Api-Secret and X-Api-Key to the Object)
 
 ```
-We call Methods with the `ot` Object
+We call Methods with the `OnetapAPI` Object
 
 Heres a example of the `GetAllScripts` Function.
 ```js
